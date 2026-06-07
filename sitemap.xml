@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://enfarmacia.es/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/casa-rural-la-tajuela-casa-rural-bohonal-de-ibor-20.webp</image:loc>
+      <image:title>Casa Rural La Tajuela · Bohonal de Ibor · Cáceres</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/casa-rural-la-tajuela-casa-rural-bohonal-de-ibor-7.webp</image:loc>
+      <image:title>Suite Cancho La Perdiz · Casa Rural La Tajuela</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/casa-rural-la-tajuela-casa-rural-bohonal-de-ibor-17.webp</image:loc>
+      <image:title>Suite Cancho El Abocastro · Casa Rural La Tajuela</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/casa-rural-la-tajuela-casa-rural-bohonal-de-ibor-8.webp</image:loc>
+      <image:title>Suite Cancho El Librillo · Casa Rural La Tajuela</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/Monumento_a_Pizarro.jpg</image:loc>
+      <image:title>Trujillo · Plaza Mayor · Estatua de Pizarro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/960px-Monasterio_de_San_Jeronimo_Cuacos_de_Yuste-Caceres.jpg</image:loc>
+      <image:title>Monasterio de Yuste · La Vera · Cáceres</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/06/monaterio-guadalupe-2.webp</image:loc>
+      <image:title>Real Monasterio de Guadalupe · Patrimonio Mundial UNESCO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/03/geoparque-villuercas.webp</image:loc>
+      <image:title>Geoparque Villuercas-Ibores-Jara · UNESCO</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://latajuelacasarural.es/wp-content/uploads/2025/03/Los-Marmoles-1.webp</image:loc>
+      <image:title>Templo de los Mármoles (Augustóbriga) · Bohonal de Ibor</image:title>
+    </image:image>
+  </url>
+
+</urlset>
